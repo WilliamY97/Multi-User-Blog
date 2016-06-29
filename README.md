@@ -1,2 +1,17 @@
-# Multi-User-Blog
-This is a project built to allow multiple users to register and publish to a blog. It is built using a python backend and Jinja2 template.
+Multi User Blog Project
+Udacity Full-Stack Nanodegree Program
+Author: William Yang
+
+The live version of the projet is set up at:
+http://williamyblog.appspot.com/blog
+
+I have used Google App Engine to set up this project. If you want to run the code, please first get Google App Engine SDK for Python:
+
+https://cloud.google.com/appengine/downloads
+
+If you do not have symlinks installed for GAE commands, the launcher will prompt you to install them - please do.
+
+After installing the application, you can run it through the launcher by following:
+
+File -> Add Existing Application -> Add project -> Click Browse
+
