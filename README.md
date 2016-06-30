@@ -1,5 +1,4 @@
 Multi User Blog Project
-Udacity Full-Stack Nanodegree Program
 Author: William Yang
 
 The live version of the project is set up at:
